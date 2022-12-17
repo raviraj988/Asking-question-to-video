@@ -1,0 +1,5 @@
+transformers
+youtube-transcript-api 
+pandas
+sentence-transformers
+torch
